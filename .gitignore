@@ -1,0 +1,21 @@
+# 환경 변수 (API 키 보호)
+.env
+
+# 가상환경
+venv/
+.venv/
+
+# 파이썬 캐시
+__pycache__/
+*.pyc
+*.pyo
+
+# 채팅 히스토리 (로컬 데이터 - GitHub에 불필요)
+chat_history/
+
+# OS 파일
+.DS_Store
+Thumbs.db
+
+# 임시 파일
+*.tmp
